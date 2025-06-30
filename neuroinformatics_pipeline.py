@@ -257,6 +257,3 @@ neuroinformatics-pipeline/
 ### 14. README.md Summary
 > This repository presents a complete neuroinformatics pipeline using real EEG datasets, machine learning, deep learning (PyTorch), and statistical methods to classify and understand neurological disorders. It includes genomics (GWAS) integration and Brain-Computer Interface (BCI) simulations to bridge neural signal processing with actionable outputs. Inspired by Neuralink but open-source and bioinformatics-focused.
 
----
-
-Let me know if you want me to help **push this to GitHub**, generate all folders/files, or create a professional `README.md`. 🚀
